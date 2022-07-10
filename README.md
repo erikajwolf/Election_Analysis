@@ -19,3 +19,4 @@ This script is simple, versatile, and easy to use. For it to be utilized for oth
 insert here
 insert here
 If we wanted to show more number summaries besides percentage and vote count by county and by candidate, we could add those as well (for example: by district if we are analyzing the votes of the entire state of Colorado). 
+![Parent_Category_Chart](Parent_Category_Chart.png)
