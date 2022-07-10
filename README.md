@@ -11,10 +11,15 @@ For this audit, Tom created an overview of total number of votes, list of candid
 - Denver had the largest number of votes
 - Charles Casper Stockham: 23.0% (85,213) ; Diana DeGette: 73.8% (272,892) ; Raymon Anthony Doane: 3.1% (11,606)
 - Winner -- Diana DeGette: 73.8% (272,892)
+
 ![Voting_Summary](Voting_Summary.png)
+
 ## Election Audit Summary
 ### A Business Proposal
 This script is simple, versatile, and easy to use. For it to be utilized for other elections, it would need modifications in two places: what file is being read and what file the output is being written to. 
+
 ![File_To_Load](File_To_Load.png)
+
 ![File_To_Save](File_To_Save.png)
+
 If we wanted to show more number summaries besides percentage and vote count by county and by candidate, we could add those as well (for example: by district if we are analyzing the votes of the entire state of Colorado). 
